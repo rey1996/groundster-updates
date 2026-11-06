@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "versionCode": 11,
+  "versionName": "1.1.1",
+  "url": "https://github.com/rey1996/groundster-updates/releases/download/v11/groundster-11.apk",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "sizeBytes": 1,
+  "minSdk": 35,
+  "deviceIds": [],
+  "notes": "Marcador inicial: versionCode igual al desplegado, nadie se actualiza."
+}
