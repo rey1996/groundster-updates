@@ -1,11 +1,11 @@
 {
   "v": 1,
-  "versionCode": 11,
-  "versionName": "1.1.1",
-  "url": "https://github.com/rey1996/groundster-updates/releases/download/v11/groundster-11.apk",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "sizeBytes": 1,
+  "versionCode": 12,
+  "versionName": "1.1.2",
+  "url": "https://github.com/rey1996/groundster-updates/releases/download/v12/groundster-12.apk",
+  "sha256": "20af668b1cd9a01694045508d06e1a5e9af1ac1487b8c22182a92d3bdf7e9d1a",
+  "sizeBytes": 21611159,
   "minSdk": 35,
   "deviceIds": [],
-  "notes": "Marcador inicial: versionCode igual al desplegado, nadie se actualiza."
+  "notes": "Prueba del canal publico en el F400."
 }
